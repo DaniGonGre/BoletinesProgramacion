@@ -6,4 +6,6 @@
 
 [Boletin 2-3](https://github.com/DaniGonGre/BoletinesProgramacion/blob/d5039404d7533d0ef21799efc2c2eb85a8210a65/Boletin2-3.java)
 
+[Boletin 2-4](https://github.com/DaniGonGre/misBoletines/blob/feee001b8af3e51897c6326f68edd1d2cd7145e5/Boletin2-4.java)
+
 [Boletin 4](https://github.com/DaniGonGre/boletin4.git)
