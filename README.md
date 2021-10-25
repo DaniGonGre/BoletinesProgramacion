@@ -12,6 +12,8 @@
 
 [Boletin 3-1](https://github.com/DaniGonGre/misBoletines/blob/0f9e2e8d86d68e03960565b68666da89023cf2f7/Boletin3-1.java)
 
+[Boletin 3-2](https://github.com/DaniGonGre/misBoletines/blob/0ee5c5ce859ae167f83cea7ddb9876ff38e2abfc/Boletin3-2.java)
+
 [Boletin 4](https://github.com/DaniGonGre/boletin4.git)
 
 [Boletin 5](https://github.com/DaniGonGre/boletin5.git)
