@@ -18,9 +18,7 @@
 
 [Boletin 3-4](https://github.com/DaniGonGre/misBoletines/blob/faf0e7be2679161327201afd884411d135454185/Boletin3-4.java)
 
-[Boletin 4](https://github.com/DaniGonGre/boletin4.git)
+[Boletin 4](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin4)
 
 [Boletin 5](https://github.com/DaniGonGre/boletin5.git)
-
-[Boletin 4 prueba](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin4)
 
