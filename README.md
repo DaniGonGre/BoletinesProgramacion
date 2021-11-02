@@ -22,3 +22,12 @@
 
 [Boletin 5](https://github.com/DaniGonGre/boletin5.git)
 
+[Boletin 7-1](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin7-1)
+
+[Boletin 7-2]
+
+[Boletin 7-3]
+
+[Boletin 7-4]
+
+[Boletin 7-5]
