@@ -2,7 +2,7 @@
 
 [Boletin 2-1](https://github.com/DaniGonGre/misBoletines/blob/92a7e2417c3c2cc5ddf31d98fb7b0c39f26c0e00/Boletin2_1.java)
 
-[Boletin 2-2](https://github.com/DaniGonGre/BoletinesProgramacion/blob/b590c6bf129085b85643fc56834cbf2012819396/Boletin2-2.java)
+[Boletin 2-2](https://github.com/DaniGonGre/misBoletines/blob/f5070d0598f29c0113235c06e84b8a79a25ef3a9/Boletin2-2.java)
 
 [Boletin 2-3](https://github.com/DaniGonGre/BoletinesProgramacion/blob/d5039404d7533d0ef21799efc2c2eb85a8210a65/Boletin2-3.java)
 
