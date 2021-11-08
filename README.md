@@ -1,6 +1,6 @@
 # BoletinesProgramacion
 
-[Boletin 2-1](https://github.com/DaniGonGre/BoletinesProgramacion/blob/31314433428d8330d477ac85497b91c3c5e42c7f/Boletin2-1.java)
+[Boletin 2-1](https://github.com/DaniGonGre/misBoletines/blob/92a7e2417c3c2cc5ddf31d98fb7b0c39f26c0e00/Boletin2_1.java)
 
 [Boletin 2-2](https://github.com/DaniGonGre/BoletinesProgramacion/blob/b590c6bf129085b85643fc56834cbf2012819396/Boletin2-2.java)
 
