@@ -36,6 +36,8 @@
 
 [Boletin 7-5](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin%207-5)
 
+[Boletin 8-2](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin8_2)
+
 [Boletin 9-1](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin9_1)
 
 [Boletin 9-2](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin9_2)
