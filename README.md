@@ -38,7 +38,7 @@
 
 [Boletin 9-1](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin9_1)
 
-[Boletin 9-2]
+[Boletin 9-2](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin9_2)
 
 [Boletin 9-3](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin9_3)
 
