@@ -50,3 +50,5 @@
 
 [Boletin 11-1](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin11-1)
 
+[Boletin 11-2](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin11-2)
+
