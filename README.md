@@ -12,7 +12,7 @@ Boletin 6: [Boletin 6-1](https://github.com/DaniGonGre/misBoletines/tree/main/Bo
 
 Boletin 7: [Boletin 7-1](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin7-1) | [Boletin 7-2](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin%207-2) | [Boletin 7-3](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin%207-3) | [Boletin 7-4](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin%207-4) | [Boletin 7-5](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin%207-5)
 
-Boletin 8: [Boletin 8-2](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin8_2)
+Boletin 8: [Boletin 8-1](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin8-1) | [Boletin 8-2](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin8_2)
 
 Boletin 9: [Boletin 9-1](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin9_1) | [Boletin 9-2](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin9_2) | [Boletin 9-3](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin9_3) | [Boletin 9-4](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin9_4) | [Boletin 9-5](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin9-5)
 
