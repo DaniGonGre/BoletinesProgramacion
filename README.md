@@ -24,7 +24,7 @@
 
 [Boletin 4](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin4)
 
-[Boletin 5](https://github.com/DaniGonGre/boletin5.git)
+[Boletin 5](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin5)
 
 [Boletin 7-1](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin7-1)
 
