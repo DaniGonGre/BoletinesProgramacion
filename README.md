@@ -21,6 +21,7 @@ Boletin 11: [Boletin 11-1](https://github.com/DaniGonGre/misBoletines/tree/main/
 Boletin 12: [Boletin 12-1](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin12_1) | [Boletin 12-2](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin12_2)
 
 Boletin 14: [Boletin 14](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin14)
+Boletin 15: [Boletin 15](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin15)
 
 Boletines extra: 
 - Boletin extra 1: [Boletin extra 1-1](https://github.com/DaniGonGre/misBoletines/blob/acae0c793fcbe660e64c1604a324c4744f15fa39/Boletin_extra1_1.java) | [Boletin extra 1-2](https://github.com/DaniGonGre/misBoletines/blob/main/Boletin_extra1_2.java) | [Boletin extra 1-3](https://github.com/DaniGonGre/misBoletines/blob/main/Boletin_extra1_3.java)
