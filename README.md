@@ -3,6 +3,7 @@
 ## 2ª Evaluación
 
 Boletin 18: [Boletin 18](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin18)
+Boletin 19: [Boletin 19](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin19)
 
 ## 1ª Evaluación
 
