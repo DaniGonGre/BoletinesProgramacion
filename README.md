@@ -10,6 +10,8 @@ Boletin 21: [Boletin 21-1](https://github.com/DaniGonGre/misBoletines/tree/main/
 
 Boletin 22: [Boletin 22](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin22)
 
+Boletin 24: [Boletin 24](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin24)
+
 ## 1ª Evaluación
 
 Boletin 2: [Boletin 2-1](https://github.com/DaniGonGre/misBoletines/blob/92a7e2417c3c2cc5ddf31d98fb7b0c39f26c0e00/Boletin2_1.java) | [Boletin 2-2](https://github.com/DaniGonGre/misBoletines/blob/f5070d0598f29c0113235c06e84b8a79a25ef3a9/Boletin2-2.java) | [Boletin 2-3](https://github.com/DaniGonGre/misBoletines/blob/fddee2911c5c64dd3d84d8322eab46deaebd4fd7/Boletin2-3.java) | [Boletin 2-4](https://github.com/DaniGonGre/misBoletines/blob/feee001b8af3e51897c6326f68edd1d2cd7145e5/Boletin2-4.java) | [Boletin 2-5](https://github.com/DaniGonGre/misBoletines/blob/769cb715b6ca0c269b74f8cfb5f1d361f3d2bf51/Boletin2-5.java)
