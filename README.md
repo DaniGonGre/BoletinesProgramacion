@@ -12,8 +12,7 @@ Boletin 21: [Boletin 21-1](https://github.com/DaniGonGre/misBoletines/tree/main/
 
 Boletin 22: [Boletin 22](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin22)
 
-Boletin 23: [Boletin 23]
-(https://github.com/DaniGonGre/misBoletines/tree/main/Boletin23) 
+Boletin 23: [Boletin 23](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin23)
 
 Boletin 24: [Boletin 24](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin24)
 
