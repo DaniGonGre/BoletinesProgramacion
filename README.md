@@ -14,6 +14,8 @@ Boletin 22: [Boletin 22](https://github.com/DaniGonGre/misBoletines/tree/main/Bo
 
 Boletin 23: [Boletin 23](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin23)
 
+Exemplo lista obxetos: [Comercio](https://github.com/DaniGonGre/misBoletines/tree/main/Comercio)
+
 Boletin 24: [Boletin 24](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin24)
 
 ## 1ª Evaluación
