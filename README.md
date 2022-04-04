@@ -8,6 +8,8 @@ Boletin 27: [Boletin 27](https://github.com/DaniGonGre/misBoletines/tree/main/Bo
 
 Boletin 28: [Boletin 28](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin28)
 
+Boletin 29: [Boletin 29](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin29)
+
 ## 2ª Evaluación
 
 Boletin 18: [Boletin 18](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin18)
