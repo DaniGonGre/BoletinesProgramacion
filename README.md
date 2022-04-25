@@ -12,6 +12,8 @@ Boletin 29: [Boletin 29](https://github.com/DaniGonGre/misBoletines/tree/main/Bo
 
 Boletin 30: [Boletin 30](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin30)
 
+Boletin 32: [Boletin 32](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin32)
+
 - Extra Bonoloto: [Bonoloto](https://github.com/DaniGonGre/misBoletines/tree/main/Bonoloto)
 
 ## 2ª Evaluación
