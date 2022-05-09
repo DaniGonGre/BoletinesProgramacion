@@ -18,6 +18,8 @@ Boletin 33: [Boletin 33](https://github.com/DaniGonGre/misBoletines/tree/main/Bo
 
 Boletin 34: [Boletin 34](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin34)
 
+Boletin 35: [Boletin 35](https://github.com/DaniGonGre/misBoletines/tree/main/Boletin35)
+
 - Extra Bonoloto: [Bonoloto](https://github.com/DaniGonGre/misBoletines/tree/main/Bonoloto)
 
 ## 2ª Evaluación
